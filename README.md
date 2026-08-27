@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sanchayan Das
 
-<!--
-**sanchayan06/sanchayan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A CSE Student from India interested in Backend Development and Blue Teaming.
 
-Here are some ideas to get you started:
+* Currently exploring **Backend Development and Cybersecurity**
+* Learning and building with different technologies
+* Interested in **Blue Teaming, Network Security, and Defensive Security**
+* Focused on writing practical code and building projects
+* Always learning, experimenting, and improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+**Programming Languages & Technologies:**
+
+`C` • `C++` • `Java` • `Python` • `JavaScript` • `MySQL` • `Bash Shell Scripting`
+
+---
+
+### Current Interests
+
+* Backend Development
+* Blue Teaming
+* Defensive Security
+* Databases
+* System and Network Security
+
+> *Learning continuously, building practical projects, and improving one step at a time.*
