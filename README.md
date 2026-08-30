@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanchayan Das A.K.A Sleepy Coder</h1>
-<h3 align="center">a CSE student who builds frotent, hunts threats, and occasionally creates bugs just to feel useful.</h3>
+<h3 align="center">a CSE student who builds frontend, hunts threats, and occasionally creates bugs just to feel useful.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchayan06&label=Profile%20views&color=0e75b6&style=flat" alt="sanchayan06" /> </p>
 
