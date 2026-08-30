@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js & Blue Teaming (Specially forensics)**
 
-- 💬 Ask me about **Ask me about C, C++, Java, Python, JavaScript, MySQL, Bash, Backend Development, and Blue Teaming**
+- 💬 Ask me about **Ask me about C, C++, Java, Python, JavaScript, MySQL, Bash, Frontend Development, and Blue Teaming**
 
 - 📫 How to reach me **www.linkedin.com/in/sanchayan-das-engineer**
 
